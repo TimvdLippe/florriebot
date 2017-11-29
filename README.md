@@ -18,7 +18,7 @@ You can test your hubot by running the following, however some plugins will not
 behave as expected unless the [environment variables](#configuration) they rely
 upon have been set.
 
-First of all, install the dependencies by running of these two commands:
+First of all, install the dependencies by running one of these two commands:
 
     % yarn
     % npm
